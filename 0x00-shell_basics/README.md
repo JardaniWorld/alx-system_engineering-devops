@@ -1,1 +1,1 @@
-This script executes to navigate back to the home directory
+This script executes to navigate to user home directory
