@@ -1,1 +1,1 @@
-This script executes to add permissions to users
+This script executes to add permissions to a file
