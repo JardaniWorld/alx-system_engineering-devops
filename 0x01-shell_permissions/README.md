@@ -1,1 +1,1 @@
-This script executes to change file ownership
+This script adds execute permissions to the owner of the file
