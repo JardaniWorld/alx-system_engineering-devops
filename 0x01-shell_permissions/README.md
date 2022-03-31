@@ -1,1 +1,1 @@
-This script sets the mode of two files as same
+This script executes to add permissions to all subfolders in a directory
