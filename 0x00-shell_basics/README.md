@@ -1,1 +1,1 @@
-This script performs special action on files
+This script performs special actions on files
