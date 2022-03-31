@@ -1,1 +1,1 @@
-This script creates symbolic link
+This script copies html
