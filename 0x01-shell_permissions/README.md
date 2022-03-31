@@ -1,1 +1,1 @@
-This script executes to change the user and group owner
+This script executes to change the owner and group owner of two files
