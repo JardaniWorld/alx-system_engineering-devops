@@ -1,1 +1,1 @@
-This script takes user back to previous working directory
+This script navigates back to prious directory
