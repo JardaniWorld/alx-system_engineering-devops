@@ -1,1 +1,1 @@
-This script deletes files with a particular character
+This script makes new directories
