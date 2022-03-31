@@ -1,1 +1,1 @@
-This script executes to display userand group ID numerically and also displays files in long format
+This script executes a file to create a directory
