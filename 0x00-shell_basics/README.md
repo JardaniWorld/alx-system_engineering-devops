@@ -1,1 +1,1 @@
-This script lists the working directory contents in a long format
+This script list all files in a working directory including hidden files in long format
