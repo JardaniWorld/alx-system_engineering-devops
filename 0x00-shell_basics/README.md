@@ -1,1 +1,1 @@
-This script list the contents of its directory
+This script executes to navigate back to the home directory
