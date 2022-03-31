@@ -1,1 +1,1 @@
-This script copies html
+This script moves upper case letter files
