@@ -1,1 +1,1 @@
-This script navigates back to prious directory
+This script lists all file including hidden ones in long format
