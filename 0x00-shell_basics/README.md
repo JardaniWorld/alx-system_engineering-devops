@@ -1,1 +1,1 @@
-This script executes a file to create a directory
+This script makes a directory
