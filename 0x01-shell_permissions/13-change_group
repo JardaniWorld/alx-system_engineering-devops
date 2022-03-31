@@ -1,1 +1,2 @@
-This script executes to change group
+#!/bin/bash
+chgrp school hello
