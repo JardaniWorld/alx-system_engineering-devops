@@ -1,1 +1,1 @@
-This script creates a symbolic link
+This script creates symbolic link
