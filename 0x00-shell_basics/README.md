@@ -1,1 +1,1 @@
-This script executes to navigate to user home directory
+This script lists the working directory contents in a long format
