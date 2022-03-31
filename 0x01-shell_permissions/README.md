@@ -1,1 +1,1 @@
-This script creates a new directory
+This script executes to change the user and group owner
