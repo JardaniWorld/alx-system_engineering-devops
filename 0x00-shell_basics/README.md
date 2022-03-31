@@ -1,1 +1,1 @@
-This script list all files in a working directory including hidden files in long format
+This script executes to display userand group ID numerically and also displays files in long format
