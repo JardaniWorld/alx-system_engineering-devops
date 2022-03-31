@@ -1,1 +1,1 @@
-This script makes new directories
+This script performs special action on files
