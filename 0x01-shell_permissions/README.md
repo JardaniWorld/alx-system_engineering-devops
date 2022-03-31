@@ -1,1 +1,1 @@
-This script executes the effective username of a user
+This script executes and displays all current groups of user
