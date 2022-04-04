@@ -1,1 +1,1 @@
-This script prints the contents of two files
+This script displays the last 10 lines of a file
