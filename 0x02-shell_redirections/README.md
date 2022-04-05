@@ -1,1 +1,1 @@
-This script executes to find a particular word
+This script counts the lines where a word appears
