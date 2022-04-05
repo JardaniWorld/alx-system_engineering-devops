@@ -1,1 +1,1 @@
-This script executes to add a file to a path
+This script executes to count the directories in a path
