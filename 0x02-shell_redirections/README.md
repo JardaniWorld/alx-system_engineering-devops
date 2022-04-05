@@ -1,1 +1,1 @@
-This script executes to print unique words once
+This script executes to find a particular word
