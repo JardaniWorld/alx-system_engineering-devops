@@ -1,1 +1,1 @@
-This script executes to write into another file the output of a given command
+This script executes to write on a file the output of a given command
