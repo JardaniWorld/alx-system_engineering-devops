@@ -1,1 +1,1 @@
-This script counts the number of directories and subdirectories
+This executes to print the 10 newest files
