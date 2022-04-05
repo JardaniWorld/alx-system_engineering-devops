@@ -1,1 +1,1 @@
-This script executes to remove a letter
+This script executes to display all users and their home directories
