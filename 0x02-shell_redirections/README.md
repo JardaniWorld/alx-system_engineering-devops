@@ -1,1 +1,1 @@
-This script executes to delete files with a particular extension
+This script counts the number of directories and subdirectories
