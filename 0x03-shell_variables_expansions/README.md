@@ -1,1 +1,1 @@
-This scripts executes to print environment variables
+This script executes to print local variables
