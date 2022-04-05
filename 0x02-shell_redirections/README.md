@@ -1,1 +1,1 @@
-This executes to print the 10 newest files
+This script executes to print unique words once
