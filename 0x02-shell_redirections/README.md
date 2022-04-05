@@ -1,1 +1,1 @@
-This script executes to duplicate the laast line of a file
+This script executes to duplicate the last line of a file
