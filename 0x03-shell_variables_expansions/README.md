@@ -1,1 +1,1 @@
-This script executes to print local variables
+This script executes to create a local variable
