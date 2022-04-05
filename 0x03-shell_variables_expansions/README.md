@@ -1,1 +1,1 @@
-This script executes to print the addition of two values
+This script executes to perform division between two values
