@@ -1,1 +1,1 @@
-This script executes to write on a file the output of a given command
+This script executes to duplicate the laast line of a file
