@@ -1,1 +1,1 @@
-This script executes to convert a number to base 10
+This script executes to combine two letters
