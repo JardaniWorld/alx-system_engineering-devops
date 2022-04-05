@@ -1,1 +1,1 @@
-This script executes to print a string of words
+This script executes to add a file to a path
