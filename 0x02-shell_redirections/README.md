@@ -1,1 +1,1 @@
-This script executes to count a word and display the count
+This scripts executes to match words in a file and print lines after it
