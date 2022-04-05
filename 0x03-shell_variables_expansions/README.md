@@ -1,1 +1,1 @@
-This script executes to create a global variable
+This script executes to print the addition of two values
