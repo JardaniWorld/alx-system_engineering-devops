@@ -1,1 +1,1 @@
-This script executes to check for a file beginning with a word
+This script executes to display lines in a file matching a word
