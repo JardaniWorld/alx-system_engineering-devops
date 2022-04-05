@@ -1,1 +1,1 @@
-This script counts the lines where a word appears
+This script executes to count a word and display the count
