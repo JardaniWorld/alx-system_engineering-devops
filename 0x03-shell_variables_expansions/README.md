@@ -1,1 +1,1 @@
-This script executes to create an alias
+This script executes to print a string of words
