@@ -1,2 +1,2 @@
 #!/bin/bash
-$PATH ls -lA | egrep -c ^d
+echo $PATH ls -lA | egrep -c ^d
