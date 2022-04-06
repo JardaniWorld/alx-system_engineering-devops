@@ -1,1 +1,1 @@
-This script executes to print float numbers
+This script executes to print float
