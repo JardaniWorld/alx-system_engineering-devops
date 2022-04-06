@@ -1,3 +1,2 @@
 #!/bin/bash
-echo $PATH | tr ":""
-" | wc -1
+$PATH ls -lA | egrep -c ^d
