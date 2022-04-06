@@ -1,1 +1,1 @@
-This script executes to combine letters
+This script executes to count the number of directories
