@@ -1,1 +1,1 @@
-This script executes to print float
+This script executes to combine letters
