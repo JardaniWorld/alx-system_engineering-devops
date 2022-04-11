@@ -1,1 +1,1 @@
-This script executes to reverse an input
+This script executes to reverse its input
