@@ -1,1 +1,1 @@
-This script executes to print every other line from input starting with the first line
+This script adds two numbers in a given base and converts to another base
