@@ -1,1 +1,1 @@
-This script executes to print a confused smiley
+This script executes to replace characters
