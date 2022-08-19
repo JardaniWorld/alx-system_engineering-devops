@@ -1,1 +1,1 @@
-This repository contains different scripts executing different commands
+This repository covers implementations involving Systems Engineering and Devops
