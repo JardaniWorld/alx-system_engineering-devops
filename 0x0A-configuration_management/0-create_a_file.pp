@@ -1,6 +1,6 @@
 # This Puppet code creates a file
 
-file {'/tmp/school':
+file { '/tmp/school':
   ensure   => 'present',
   mode     => '0744',
   owner    => 'www-data',
