@@ -17,7 +17,6 @@ backend $DOMAIN_NAME-backend
 	server web2 34.75.208.81:80 check
 
 frontend $DOMAIN_NAME-frontend
-
 	bind *:80
 	mode http
 
