@@ -1,37 +1,11 @@
 #!/usr/bin/env bash
-# 
-# Configure Nginx so that its HTTP response contains
-# a custom header
-#
+# Install and configure HAproxy on your lb-01 server.
 
-# Update packages
-sudo apt update
+apt-get -y install software-properties-common
+add-apt-repository -y ppa:vbernat/haproxy-2.6
+apt-get -y update
+apt-get -y install haproxy
 
-# Add HAProxy PPA
-sudo apt install -y software-properties-common
-sudo add-apt-repository ppa:vbernat/haproxy-1.8 -y
-sudo apt update
-
-# Install HAProxy
-sudo apt install -y haproxy=1.8.\*
-
-hgproxy_conf_file="/etc/haproxy/haproxy.cfg"
-
-# Configure Load Balancer
-fname="frontend http"
-fbind="bind *:80"
-fmode="mode http"
-fdefault="default_backend web-backend"
-frontend="$fname\n\t$fbind\n\t$fmode\n\t$fdefault\n"
-
-bname="backend web-backend"
-bbalance="balance roundrobin"
-bserver1="server web1 44.211.31.72:80 check"
-bserver2="server web2 54.175.221.151:80 check"
-backend="$bname\n\t$bbalance\n\t$bserver1\n\t$bserver2"
-
-sudo sed -i "$ a $frontend" $hgproxy_conf_file
-sudo sed -i "$ a $backend" $hgproxy_conf_file
-
-# Restart HAProxy
-sudo service haproxy restart
+sed -i -e '$aENABLED=1\n' /etc/default/haproxy
+sed -i -e '$a\listen balancer\n\tbind :80\n\tbalance roundrobin\n\tserver 46113-web-01 44.211.31.72:80 check\n\tserver 46113-web-02 54.175.221.151:80 check\n' /etc/haproxy/haproxy.cfg
+service haproxy restart
